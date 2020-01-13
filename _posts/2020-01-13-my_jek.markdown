@@ -6,5 +6,5 @@ categories: jekyll update
 ---
 This post contains the link to the jekyll project.
 
-[Link](https://www.google.com)
+[Link](https://github.com/leuteris99/jekyll_profile/tree/master)
 
